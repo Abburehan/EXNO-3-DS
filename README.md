@@ -1,5 +1,6 @@
 ## EXNO-3-DS
-
+## Name : Syed Abbu Rehan
+## RegNo : 212223240165
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
 
@@ -31,8 +32,25 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
-# RESULT:
-       # INCLUDE YOUR RESULT HERE
+<img width="1330" height="739" alt="image" src="https://github.com/user-attachments/assets/f65cb45c-5280-48ce-9ffe-ae58e83cf372" />
+<img width="1334" height="727" alt="image" src="https://github.com/user-attachments/assets/0a434e44-58a6-4ffd-be1b-6f7540decba1" />
+<img width="1330" height="554" alt="image" src="https://github.com/user-attachments/assets/6b4c717a-52c3-4494-ac80-46df708f1a63" />
+<img width="1331" height="565" alt="image" src="https://github.com/user-attachments/assets/fe27e204-1bd3-4360-940f-365f601b00c5" />
+<img width="1333" height="560" alt="image" src="https://github.com/user-attachments/assets/c320b0fa-6708-432e-9722-f37b53e28d2b" />
+<img width="1327" height="602" alt="image" src="https://github.com/user-attachments/assets/4d6933f1-dc0e-47ba-bd91-d99b8a9e2b35" />
+<img width="1332" height="550" alt="image" src="https://github.com/user-attachments/assets/a694eb64-dce6-4a72-95c5-9eacf1b938ce" />
+<img width="1325" height="547" alt="image" src="https://github.com/user-attachments/assets/67bfd1c5-b8c3-472e-bfcc-f0eb1e4f1b77" />
+<img width="1331" height="551" alt="image" src="https://github.com/user-attachments/assets/665d21a8-10ae-442d-8837-396fe8153d9a" />
+<img width="1331" height="557" alt="image" src="https://github.com/user-attachments/assets/9d743939-b6ce-4216-8e24-19b65ffda025" />
+<img width="1331" height="560" alt="image" src="https://github.com/user-attachments/assets/3f2ffca7-f6ae-4c9a-9a6f-0828c81512f0" />
+<img width="1329" height="553" alt="image" src="https://github.com/user-attachments/assets/2a423c33-e22d-40ca-a16f-03f152996446" />
+<img width="1327" height="551" alt="image" src="https://github.com/user-attachments/assets/8bbd955c-b386-4f78-ba7a-ed673cc40999" />
+<img width="1332" height="563" alt="image" src="https://github.com/user-attachments/assets/69020c9c-4b74-4788-bbd9-7c0f23b0163f" />
+<img width="1336" height="560" alt="image" src="https://github.com/user-attachments/assets/2049bb22-7ced-4378-8aa2-30d03089cd9c" />
+<img width="1332" height="548" alt="image" src="https://github.com/user-attachments/assets/9f745f50-32c0-4364-b7c9-f3d0a648630f" />
+<img width="1332" height="554" alt="image" src="https://github.com/user-attachments/assets/63090d0d-2421-42f4-b36c-1308fe9395c3" />
+<img width="1331" height="637" alt="image" src="https://github.com/user-attachments/assets/e32a25ab-cf12-489e-8dfe-89acb27ee62f" />
+<img width="1325" height="549" alt="image" src="https://github.com/user-attachments/assets/824865f2-3ef4-4332-a97d-f7c02d94a0e6" />
 
-       
+# RESULT:
+Thus we have successfully performed Feature Encoding and Transformation process and saved the data to a file.
